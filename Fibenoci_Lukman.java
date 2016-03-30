@@ -26,5 +26,7 @@ public class Fibenoci_Lukman {
          hasil=a+b;
          System.out.print(hasil+" ");
         }
+         System.out.println("");
+         System.out.println(hasil+c);
     } 
 }
